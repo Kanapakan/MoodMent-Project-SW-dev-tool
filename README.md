@@ -2,7 +2,7 @@
 
 * วิชา Software Development Tools And Environments
 * กลุ่ม 14
-* [View more in Wiki](https://github.com/pspapleng/Project-SW-dev-tool-env-14/wiki)
+* [View more in Wiki](https://github.com/Kanapakan/MoodMent-Project-SW-dev-tool/wiki)
 
 ## How to run with docker-compose
 
